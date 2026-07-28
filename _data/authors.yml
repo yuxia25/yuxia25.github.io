@@ -1,18 +1,8 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Yu Xia:
+  name        : "Yu Xia (夏宇)"
+  uri         : "https://yuxia2025.github.io/"
+  email       : "yuxia@cuhk.edu.cn"
+  bio         : "Assistant Professor at CUHK Shenzhen. Research on platform governance, mobile ecosystems, and digital innovation."
+  avatar      : "Photo.jpg"

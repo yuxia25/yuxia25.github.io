@@ -15,12 +15,12 @@ $indent-var                 : 1.3em;
 
 /* System typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$sans-serif                 : -apple-system, "Helvetica Neue", "HelveticaNeue-Light", "Helvetica Neue Light", "Segoe UI", "Roboto", Arial, "Noto Sans", sans-serif;
+$monospace                  : "SF Mono", Monaco, "Cascadia Code", Consolas, "Lucida Console", monospace;
 
 /* Sans serif typefaces */
-$sans-serif-narrow          : $sans-serif;
-$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+$sans-serif-narrow          : "Helvetica Neue", "HelveticaNeue-Light", "Helvetica Neue Light", -apple-system, Arial, sans-serif;
+$helvetica                  : "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 /* Serif typefaces */
 $georgia                    : Georgia, serif;
@@ -29,15 +29,15 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-/* Type scale */
-$type-size-1                : 2.441em;  // ~39.056px
-$type-size-2                : 1.953em;  // ~31.248px
-$type-size-3                : 1.563em;  // ~25.008px
-$type-size-4                : 1.25em;   // ~20px
+/* Type scale — slightly refined */
+$type-size-1                : 2.074em;  // ~33.18px
+$type-size-2                : 1.728em;  // ~27.65px
+$type-size-3                : 1.44em;   // ~23.04px
+$type-size-4                : 1.2em;    // ~19.2px
 $type-size-5                : 1em;      // ~16px
-$type-size-6                : 0.75em;   // ~12px
-$type-size-7                : 0.6875em; // ~11px
-$type-size-8                : 0.625em;  // ~10px
+$type-size-6                : 0.833em;  // ~13.33px
+$type-size-7                : 0.75em;   // ~12px
+$type-size-8                : 0.667em;  // ~10.67px
 
 $global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;

@@ -4,7 +4,6 @@ collection: publications
 category: working
 permalink: /publication/workingpaper-xy3
 excerpt: 'Keywords: Mobile Platform Governance, Commission Reduction, In-App Purchase Revenue, Financial Incentives, Competition Dynamics'
-status: "Under Review"
 #date: 2025-06-01
 authors: "Hailiang Chen"
 #venue: 'ISR'

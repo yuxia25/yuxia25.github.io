@@ -10,9 +10,9 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "XIA Yu"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+title_separator          : "|"
+name                     : &name "Yu Xia"
+description              : &description "Assistant Professor at CUHK Shenzhen — Platform Governance, Mobile Ecosystems, Digital Innovation"
 url                      : https://yuxia2025.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,13 +24,13 @@ author:
   # Biographic information
   avatar           : "Photo.jpg"
   
-  name             : "Biographic Information"
-  pronouns         : # example: "she/her"  
-  bio              : 
-  location         : "Shenzhen"
-  employer         : ""
-  uri              : # URL
-  email            : "yuxia25.hku.hk" 
+  name             : "Yu Xia (夏宇)"
+  pronouns         : "she/her"
+  bio              : "Assistant Professor, Information Systems and Operations Management"
+  location         : "Shenzhen, China"
+  employer         : "CUHK Shenzhen"
+  uri              : "https://yuxia2025.github.io/"
+  email            : "yuxia@cuhk.edu.cn"
 
   # Academic websites
   academia         : # URL
