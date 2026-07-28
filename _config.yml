@@ -25,7 +25,7 @@ author:
   avatar           : "Photo.jpg"
   
   name             : "Yu Xia (夏宇)"
-  pronouns         : "she/her"
+  pronouns         : # example: "she/her"
   bio              : "Assistant Professor, Information Systems and Operations Management"
   location         : "Shenzhen, China"
   employer         : "CUHK Shenzhen"
